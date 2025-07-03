@@ -3,7 +3,7 @@ from gtts import gTTS
 import os
 from io import BytesIO
 
-st.title("🗣️ Text to Speech App (with gTTS)")
+st.title("🗣️ Text to Speech AI App by Raj")
 
 text = st.text_area("Enter text to speak")
 
